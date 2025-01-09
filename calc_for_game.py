@@ -11,3 +11,6 @@ def skibidi_calc(first_num:float,operator:str,second_num:float):
         return first_num / second_num
     else:
         return 'Invalid operator, do it again skibidi pop pop'
+
+def skibid_calc_2(third_num:float):
+    return third_num
