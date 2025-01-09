@@ -1,4 +1,4 @@
-
+# Elias, hevet knyttneve du
 
 def skibidi_calc(first_num:float,operator:str,second_num:float):
     if operator == '+':
