@@ -1,10 +1,11 @@
+import calc_for_game as calc
 import pygame
 from pygame.locals import *
 
 from player import Player
 
-WIDTH, HEIGHT = 400, 400
-FPS = 24
+WIDTH, HEIGHT = calc.skibidi_calc_4(400), calc.skibidi_calc_4(400)
+FPS = calc.skibidi_calc_4(24)
 
 class App:
     def __init__(self):
