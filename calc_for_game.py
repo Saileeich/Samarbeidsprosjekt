@@ -17,4 +17,5 @@ def skibid_calc_2(third_num:float):
 
 def skibid_calc_3(um:float):
     print("Skibidi pop pop", skibid_calc_2(um)*68, "number of cho")
+#skividi
     
